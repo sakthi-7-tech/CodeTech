@@ -41,3 +41,20 @@ Achieved accuracy: **~80%** (may vary)
 ## Deliverables
 - `predictive_analysis.ipynb`
 - `README.md`
+
+# 📊 CodTech Internship – Task 3: Dashboard Development
+
+## 📝 Objective
+To develop an interactive and insightful dashboard using *Power BI*, enabling visual exploration and actionable insights from the dataset.
+
+---
+
+## 🚀 Tools & Technologies
+- 🟡 Power BI Desktop
+- 📁 Excel/CSV Dataset
+- 📊 Charts, Filters, Slicers
+- (Optional) DAX formulas
+
+---
+
+## 📂 Project Structure
