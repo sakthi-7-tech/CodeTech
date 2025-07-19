@@ -58,3 +58,48 @@ To develop an interactive and insightful dashboard using *Power BI*, enabling vi
 ---
 
 ## 📂 Project Structure
+
+# Task 4 - Sentiment Analysis using NLP 💬
+
+This project is part of my internship at *CodTech. The goal is to perform sentiment analysis on Twitter data using Natural Language Processing (NLP) techniques. We classify each tweet as either **positive* or *negative* based on its content.
+
+---
+
+## 🔍 Project Objective
+
+- Clean and preprocess real-world tweet data
+- Convert text into numerical format using TF-IDF
+- Train a machine learning model (Logistic Regression)
+- Evaluate the model's performance
+- Visualize positive sentiment words using a Word Cloud
+
+---
+
+## 📁 Dataset Used
+
+- *File:* tweet.csv
+- *Format:* CSV with 6 columns (no headers)
+- *Content:* Sentiment140-style tweet data  
+  Columns: Sentiment, ID, Date, Query, User, Text
+
+---
+
+## 🛠 Technologies Used
+
+- Python 🐍
+- Pandas
+- NumPy
+- NLTK (Natural Language Toolkit)
+- Scikit-learn
+- Matplotlib & Seaborn
+- WordCloud
+
+---
+
+## 🧠 Steps Performed
+
+1. *Data Loading*  
+   Loaded tweet dataset using ISO-8859-1 encoding.
+
+2. *Column Setup*  
+   Manually assigned column names:
